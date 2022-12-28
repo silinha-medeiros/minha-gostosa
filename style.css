@@ -1,0 +1,46 @@
+
+.viagem_mainDiv
+{
+    border: 2px solid rgb(80, 126, 218);
+}
+
+.viagem_mainDiv img
+{
+  width: 50%;
+  height: 50%;
+}
+
+.viagem_mainDiv h5 , .viagem_mainDiv p
+{
+margin: 20px;
+}
+
+
+.filmesHead
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+
+.filmesHead i
+{
+    float: right;
+}
+
+.filmesText span
+{
+    color: rgb(242, 163, 16);
+}
+
+.livros
+{
+    margin-bottom: 20px;
+}
+
+body{
+    background:linear-gradient(rgb(242, 206, 233) 0%, rgb(181, 181, 226) 100%) ;
+}
+
+
